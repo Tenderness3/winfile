@@ -186,7 +186,9 @@ $\color{#f47983}{6、修改错误 }$
 
 ! [rejected] master -> master (non-fast-forward) error: failed to push some refs to ‘xxx’
 
-基本都是分支的问题。分别执行 下面代码
+遇到 `vim`编辑的时候 `esc` 退出编辑模式，再输入 `:wq` 保存退出
+
+基本都是本地文件和云端不匹配的问题。分别执行 下面代码
 
 ```bash
 // 修改 gitee 文件不匹配问题
